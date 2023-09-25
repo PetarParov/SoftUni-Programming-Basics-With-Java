@@ -1,4 +1,4 @@
-package FirstStepsInCodingExercise;
+package Exercises.src.FirstStepsInCodingExercise;
 import java.util.Scanner;
 
 public class RadiansToDegrees_02 {
